@@ -1,4 +1,4 @@
-number = float(input('Please enter a numper: "
+number = float(input('Please enter a numper: "))
 
 if number < 0:
     print("This number is negative.")
