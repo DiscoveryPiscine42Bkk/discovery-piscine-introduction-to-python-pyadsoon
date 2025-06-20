@@ -5,7 +5,7 @@ def main():
 ....
 .K..
 ....
-.Q.."""
+...B"""
     checkmate(board)
 
 if __name__ == "__main__":
